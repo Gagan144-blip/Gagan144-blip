@@ -1,19 +1,18 @@
 # Hi there, I'm Gaganpreet Kaur! 👋
 
-🎓 **Btech CSE| 2nd Year Student | GNDEC Ludhiana**
-💻 *Aspiring Software Engineer* |
-🌱 *Currently learning: HTML, CSS, Git, GitHub, Linux, Networking, DSA*
+🎓 **Btech CSE| 2nd Year Student | GNDEC Ludhiana**<br>
+💻 *Aspiring Software Engineer* <br>
+🌱 *Currently learning: Linux, Networking, DSA*
   
   "Code. Learn. Grow."
 ---
 
-## 🚀 About Me
+### 👋 About Me
 
-* 🔧 I love building beginner‑friendly projects and improving my development skills.<br>
-* 📚 Exploring **DSA**, **web development**, and **open source**.<br>
-* 🎯 Goal: Become a strong developer and contribute to real‑world projects.
+Hey there! I'm a passionate learner who loves building things 💻✨  
+I enjoy exploring new technologies 🔍, writing clean code 🧼, and creating projects that help me grow 📈.  
+I’ve recently stepped into open-source 🌍 and I’m excited to learn, contribute, and collaborate with amazing developers 🤝💡.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -59,9 +58,9 @@
 
 ## 🌐 Connect With Me
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="20px" />  **LinkedIn Profile:** [Linkdin](https://www.linkedin.com/in/gagan90415?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br> <br>
-<img src="https://skillicons.dev/icons?i=github" width="20px" />  **GitHub Profile:** [Github](https://www.github.com/Gagan144-blip)<br><br>
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="20px"  />  **Gmail:** gaganmt88@gmail.com
+<img src="https://skillicons.dev/icons?i=linkedin" width="20px" text-decoration="None"/>  **LinkedIn Profile:** [Linkdin](https://www.linkedin.com/in/gagan90415?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br> <br>
+<img src="https://skillicons.dev/icons?i=github" width="20px" text-decoration="None"/>  **GitHub Profile:** [Github](https://www.github.com/Gagan144-blip)<br><br>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="20px" text-decoration="None" />  **Gmail:** gaganmt88@gmail.com
 
 
 Thanks for visiting! ✨
