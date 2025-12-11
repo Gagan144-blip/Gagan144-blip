@@ -41,7 +41,6 @@ I’ve recently stepped into open-source 🌍 and I’m excited to learn, contri
   <img src="https://skillicons.dev/icons?i=github" width="40" />
   <img src="https://skillicons.dev/icons?i=linux" width="40" />
   <img src="https://skillicons.dev/icons?i=vscode" width="40" />
-  <img src="https://cdn.simpleicons.org/canva" width="40" />
 
 </p>
 
@@ -58,9 +57,20 @@ I’ve recently stepped into open-source 🌍 and I’m excited to learn, contri
 
 ## 🌐 Connect With Me
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="20px" text-decoration="None"/>  **LinkedIn Profile:** [Linkdin](https://www.linkedin.com/in/gagan90415?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br> <br>
-<img src="https://skillicons.dev/icons?i=github" width="20px" text-decoration="None"/>  **GitHub Profile:** [Github](https://www.github.com/Gagan144-blip)<br><br>
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="20px" text-decoration="None" />  **Gmail:** gaganmt88@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/gaganpreet-kaur-a7a816318/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Gagan144-blip">
+    <img src="https://skillicons.dev/icons?i=github" width="35px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gaganmt88@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35px" />
+  </a>
+</p>
 
-
+<br>
+<br>
 Thanks for visiting! ✨
