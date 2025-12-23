@@ -72,5 +72,17 @@ I’ve recently stepped into open-source 🌍 and I’m excited to learn, contri
 </p>
 
 <br>
+
+---
+
+## 🌐 LeetCode Profile
+
+<a href="https://leetcode.com/Gkaur_44/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height=70px" width="100px" align="center" />
+</a>
 <br>
+<br>
+
+---
+
 Thanks for visiting! ✨
