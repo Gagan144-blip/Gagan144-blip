@@ -48,7 +48,7 @@ I’ve recently stepped into open-source 🌍 and I’m excited to learn, contri
 
 ## 📌 Current Focus
 🌐 Sharpening my web development skills (HTML, CSS, JavaScript)<br>
-🎨 Learning Next.js ⚡<br>
+🎨 Learning DSA  ⚡<br>
 🛠️ Actively starting open-source contributions <br>
 🚧 Building practical, real-world projects to strengthn my skills <br>
 🧭 Getting better with Git & GitHub workflows 🔄<br>
@@ -57,7 +57,7 @@ I’ve recently stepped into open-source 🌍 and I’m excited to learn, contri
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/gaganpreet-kaur-a7a816318/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="35px" />
   </a>
@@ -76,10 +76,11 @@ I’ve recently stepped into open-source 🌍 and I’m excited to learn, contri
 ---
 
 ## 🌐 LeetCode Profile
-
+<p align="center">
 <a href="https://leetcode.com/Gkaur_44/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height=70px" width="100px" align="center" />
+  <img src="leetcode.png" height=70px" width="70px"  />
 </a>
+</p>
 <br>
 <br>
 
