@@ -78,7 +78,7 @@ I’ve recently stepped into open-source 🌍 and I’m excited to learn, contri
 ## 🌐 LeetCode Profile
 <p align="center">
 <a href="https://leetcode.com/Gkaur_44/" target="_blank">
-  <img src="leetcode.png" height=70px" width="70px"  />
+  <img src="leetcode.png" height=50px" width="50px"  />
 </a>
 </p>
 <br>
